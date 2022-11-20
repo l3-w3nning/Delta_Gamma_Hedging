@@ -1,2 +1,2 @@
-# Delta_Gamma_Hedging
-TBA soon, still testing
+# Weather Derivative
+Work in Progress, Irregularly updated
